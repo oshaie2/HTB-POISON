@@ -36,7 +36,7 @@ Findings:
 - 22/tcp → SSH
 - 80/tcp → HTTP
 
-📸 Screenshot:
+
 ![nmap](images/nmap.png)
 
 ---
@@ -69,7 +69,7 @@ browse.php?file=pwdbackup.txt
 
 - Contains Base64 encoded data repeated multiple times
 
-📸 Screenshot:
+
 ![pwdbackup](images/pwdbackup.png)
 
 ---
